@@ -1,4 +1,4 @@
-# Semester_Project
+# Trading Application with C++
 YAGASON PAUL
 UEB3254422 
 Bsc Information Technology A
